@@ -1,0 +1,17 @@
+{
+	"miniprogramRoot": "miniprogram/",
+	"pluginRoot": "plugin/",
+	"compileType": "plugin",
+	"appid": "wxb0d921d3f830102b",
+	"projectname": "demo",
+	"description": "sss",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+    "enhance": false,
+    "compileHotReLoad": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true
+	}
+}
